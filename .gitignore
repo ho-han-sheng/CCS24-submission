@@ -299,3 +299,12 @@ TSWLatexianTemp*
 # option is specified. Footnotes are the stored in a file with suffix Notes.bib.
 # Uncomment the next line to have this generated file ignored.
 #*Notes.bib
+.Rproj.user
+revalidation/tud_agg.csv
+revalidation/revalidation.Rproj
+revalidation/revalidation.R
+revalidation/revalidated_data/RE_model1.RData
+revalidation/revalidated_data/EN_RE_model1.RData
+revalidation/RE_model1.R
+revalidation/model1_var_info.csv
+revalidation/.Rhistory
